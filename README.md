@@ -39,6 +39,3 @@ enc_laughing_smiley_bw_2_c2.txt` to reveal the original image out of 3 encrypted
 
 - Naor, Moni, and Adi Shamir. "Visual Cryptography." Advances in Cryptology—Eurocrypt '94. Springer, Berlin, Heidelberg, 1995.
 
----
-
-Feel free to customize the README further to include specific details about your implementation and any additional information you think would be useful for users.
